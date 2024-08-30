@@ -12,11 +12,11 @@ As part of the challenge, participating teams to develop passive or active liven
 - 3.4 Model Size. The liveness model must not be more than 5Mb, so that it can be downloaded in the narrow bandwidth (3G/4G/5G) network without impacting the page load timing.
 #### 4. Expected Solution
 The expected outcome of this project is a functionalsolution that demonstrates the face liveness detection in the edge.
-#### Organization	
+#### 5. Organization	
 - Ministry of Electronics and Information Technology
-#### Department
+#### 6. Department
 - Co-ordination Division
-#### Category	
+#### 7. Category	
 - Software
-#### Theme	
+#### 8. Theme	
 - Smart Automation
